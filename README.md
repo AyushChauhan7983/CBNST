@@ -1,5 +1,5 @@
 # CBNST
-Bisection method
+Bisection method\n
 Regula Falsi method
 Newton Raphson method
 Gauss Elimination method
